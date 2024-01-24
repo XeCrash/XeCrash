@@ -13,8 +13,6 @@
 
 - I’m currently studying Software Engineering at Indiana University of Pennsylvania!
 
-- I’m currently learning different development methodologies and their pros and cons; also winter break is here yay! ❄️⛄
-
 - Feel free to look at my repositories.
 
 <h3 align="left">Languages I'm learning myself as well as in school:</h3>
