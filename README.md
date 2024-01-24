@@ -1,4 +1,4 @@
-<h3 align="center">Welcome to my Github profile!</h3>
+<h3 align="center">🐧🐧🐧 Welcome to my Github profile! 🐧🐧🐧</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XeCrash&label=Profile%20views&color=7748f9&style=flat-square" alt="XeCrash" />
@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/FN-FAL113/github-readme-steam-status" target="_blank">
-     <img src="https://github-readme-steam-status.vercel.app/status/?steamid=76561199472500751"/>
+     <-- <img src="https://github-readme-steam-status.vercel.app/status/?steamid=76561199472500751"/> --!>
+    <a href="https://www.razer.com/cortex/"><img src="https://deals-assets-cdn.razerzone.com/postcard/4ffb4edcb669c04559e683d0b4146290.png"/></a>
   </a>
 </p>
 
